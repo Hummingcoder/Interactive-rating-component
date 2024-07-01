@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Frontend Mentor URL: [Add solution URL here](https://www.frontendmentor.io/solutions/interactive-rating-component-Y90v5llzzM)
+- Live Site URL: [Add live site URL here](https://hummingcoder.github.io/Interactive-rating-component/)
